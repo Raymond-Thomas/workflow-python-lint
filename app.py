@@ -1,4 +1,3 @@
-def hello():
-    return "Hello World"
+print("Hello World")
 
-#test labeler
+# test labeler
