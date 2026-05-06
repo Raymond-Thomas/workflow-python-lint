@@ -1,0 +1,3 @@
+python:
+  - changed-files:
+      - any-glob-to-any-file: "*.py"
